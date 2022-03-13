@@ -1,0 +1,7 @@
+C:\Users\diego\source\repos\FuturaUniversity\obj\Debug\netcoreapp2.2\FuturaUniversity.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\FuturaUniversity\obj\Debug\netcoreapp2.2\FuturaUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\FuturaUniversity\obj\Debug\netcoreapp2.2\FuturaUniversity.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\FuturaUniversity\obj\Debug\netcoreapp2.2\FuturaUniversity.AssemblyInfo.cs
+C:\Users\diego\source\repos\FuturaUniversity\obj\Debug\netcoreapp2.2\FuturaUniversity.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\FuturaUniversity\obj\Debug\netcoreapp2.2\FuturaUniversity.RazorAssemblyInfo.cache
+C:\Users\diego\source\repos\FuturaUniversity\obj\Debug\netcoreapp2.2\FuturaUniversity.RazorAssemblyInfo.cs
